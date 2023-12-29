@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "376025495005",
+    "project_id": "tag-along-39d54",
+    "storage_bucket": "tag-along-39d54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376025495005:android:bd7fe287dfc97b4094b234",
+        "android_client_info": {
+          "package_name": "com.tagalone.tagalong"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA99qN8F51iAx8UsfFP9Q0q7Xu6kR0rQpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
